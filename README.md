@@ -6,7 +6,7 @@ Google's [Quick Draw](https://quickdraw.withgoogle.com/) project asked users to 
 
 ## Dataset
 They created the data from the users which they preprocessed in various form. It can be found on their github repo. Feel free to choose any format you like to work with.
-I got the ```.npy``` file from [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
+I got the ```.npy``` file from [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap;tab=objects?prefix=&forceOnObjectsSortingFiltering=false).
 
 The classes that I chose were:
 1. Airplane
