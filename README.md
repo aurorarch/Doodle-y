@@ -26,7 +26,7 @@ The classes that I chose were:
 
 There are approx 350 classes. Take as many as you want.
 
-## Steps for Colab
+## Steps to download and train
 1. Go to [Google Cloud](https://console.cloud.google.com/) and create a new project.
 2. Run these lines.
     ```
@@ -37,3 +37,6 @@ There are approx 350 classes. Take as many as you want.
     ```
 3. Fill the info about your account. *Creating a new project in cloud is necessary to download the data*.
 4. Train the data and save the model.
+5. Run the ```quikdraw.py``` to test the model in real time.
+
+This project was highly motivated from [Akshay Bahadur](https://github.com/akshaybahadur21/QuickDraw)'s repo. 
